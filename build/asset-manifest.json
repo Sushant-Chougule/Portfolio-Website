@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8fd75141.css",
+    "main.js": "/static/js/main.42eabdce.js",
+    "static/media/image.png": "/static/media/image.00cdf3615da8d4c54ace.png",
+    "static/media/resume.pdf": "/static/media/resume.5fd0a99f9d06b1a5495f.pdf",
+    "static/media/amazon.png": "/static/media/amazon.1ef045ad2eddeebfa941.png",
+    "static/media/sgm.png": "/static/media/sgm.5a38ee655b2d1f273c9c.png",
+    "static/media/gcek.jpg": "/static/media/gcek.5bf10add68d14f471348.jpg",
+    "static/media/portfolio-6.png": "/static/media/portfolio-6.4a10fac7d271e87859e9.png",
+    "static/media/portfolio-2.png": "/static/media/portfolio-2.33d06b368b4e6395030e.png",
+    "static/media/cricket-scoreboard.jpg": "/static/media/cricket-scoreboard.0f6d328b7382051a0cc5.jpg",
+    "static/media/portfolio-4.png": "/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
+    "static/media/portfolio-1.png": "/static/media/portfolio-1.b33adf772d54ab33e953.png",
+    "static/media/gasdet.png": "/static/media/gasdet.245f73d990aa7a02b520.png",
+    "static/media/portfolio-5.png": "/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
+    "static/media/portfolio-3.png": "/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
+    "static/media/image1.png": "/static/media/image1.c7f1f0ab63a29b547665.png",
+    "static/media/web.png": "/static/media/web.a5def2d1de79ea0b2457.png",
+    "static/media/looogu.png": "/static/media/looogu.3c27d6474fa2a35a814a.png",
+    "static/media/java.png": "/static/media/java.4e332879122f609caa57.png",
+    "static/media/gmail.png": "/static/media/gmail.c6f8502b371074448921.png",
+    "static/media/git.png": "/static/media/git.ba57b0e0a8e0600a63e3.png",
+    "static/media/portfolio.jpg": "/static/media/portfolio.936e6a43b3cdbdf84979.jpg",
+    "static/media/cpp.png": "/static/media/cpp.1240ce157b70fb399c6c.png",
+    "static/media/github.png": "/static/media/github.69ffd9cd5a846c976177.png",
+    "static/media/linkdin.png": "/static/media/linkdin.367e73f523d32c24d9df.png",
+    "static/media/facebook.png": "/static/media/facebook.81dd033a37c4860f7121.png",
+    "static/media/adobe.png": "/static/media/adobe.a08b8360ff7b700ed0c4.png",
+    "static/media/walmart.png": "/static/media/walmart.1d2b5e5c5c5a8e2bd5ce.png",
+    "static/media/ui-design.png": "/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/index.html",
+    "main.8fd75141.css.map": "/static/css/main.8fd75141.css.map",
+    "main.42eabdce.js.map": "/static/js/main.42eabdce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fd75141.css",
+    "static/js/main.42eabdce.js"
+  ]
+}
