@@ -1,3 +1,3 @@
-# Sushant-Portfolio
+# Portfolio Website
 Portfolio Website using React JS
 
